@@ -1,5 +1,3 @@
-console.log("test")
-
 document.addEventListener("DOMContentLoaded", function() {
     // ページ内のリンクをすべて取得
     const links = document.querySelectorAll('a[href^="#"]');
